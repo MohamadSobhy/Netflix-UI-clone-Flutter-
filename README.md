@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[![](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/qgamC7miMu4)
+[![](https://youtu.be/qgamC7miMu4/0.jpg)](https://youtu.be/qgamC7miMu4)
 
 
 ## Getting Started
